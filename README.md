@@ -18,6 +18,12 @@ Código de Conducta: Somos partidarios del Berlin Code of Conduct. Invitamos a t
 
 Para organizar nuevos eventos , es importante abrir un [issue](https://github.com/gdgcordobaarg/TechTalks/issues) en este repo con los datos de la charla que se quiera organizar y el speaker en cuestion, asi, de esa forma, podemos ir agendando las charlas.
 
+## Canales de comunicación
+
+Por el momento nos manejamos con un grupo de WhatsApp , ya que es mas rápido para todos en tanto a comunicación
+
+Link: https://chat.whatsapp.com/EOxVBBwYUGLIJPvdT1JbHe
+
 ## Disclaimer
 
 GDG Córdoba, Argentina es un grupo independiente; las actividades del grupo y opiniones expresadas por este grupo no representan las de Google Inc.
