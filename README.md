@@ -1,6 +1,6 @@
-## GDG Córdoba - Argentina
+# GDG Córdoba - Argentina
 
-¿ Que es un GDG ?
+## ¿ Que es un GDG ?
 
 GDG significa Google Developers Group.
 
