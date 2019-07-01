@@ -28,6 +28,12 @@ Por el momento nos manejamos con un grupo de WhatsApp , ya que es mas rápido pa
 
 Link: https://chat.whatsapp.com/EOxVBBwYUGLIJPvdT1JbHe
 
+## Anuncios
+
+Los anuncios de las próximas charlas se dan en nuestra pagina de Meetup
+
+Link: https://www.meetup.com/es/GDG-CORDOBA-AR
+
 ## Disclaimer
 
 GDG Córdoba, Argentina es un grupo independiente; las actividades del grupo y opiniones expresadas por este grupo no representan las de Google Inc.
