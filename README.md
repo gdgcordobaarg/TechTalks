@@ -1,4 +1,6 @@
 # GDG Córdoba - Argentina
+![gdg logo](https://secure.meetupstatic.com/photos/event/5/5/6/4/600_480981860.jpeg)
+
 
 ## ¿ Que es un GDG ?
 
